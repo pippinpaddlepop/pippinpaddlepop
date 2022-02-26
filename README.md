@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pippinpaddlepop
+- 👋 Hi, I’m Debarshi
 - 👀 I’m interested in web development and app development
 - 🌱 I’m currently learning Biotechnology at VIT
 - 📫 How to reach me :impdebarshi@gmail.com
